@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Notes Generator",
+  "description": "Upload PDF, DOCX, or TXT study materials, select chapters, and generate structured notes, summaries, exam questions, MCQs, and flashcards with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
